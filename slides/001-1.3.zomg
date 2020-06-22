@@ -1,0 +1,17 @@
+# Security Concepts (Kubernetes)
+/!
+### Prevention
+/!
+// Admissions Controller
+// Gatekeeper (OPA Implementation)
+// RBAC
+// Auth tokens
+// Encryption
+/!
+### Detection
+/!
+// Syslog
+// Access logs
+// Bash history
+// dmesg
+/!

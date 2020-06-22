@@ -1,0 +1,7 @@
+# Falco with IBM Cloud Kubernetes
+/!
+// Kernel Module on Node
+// Userspace daemon in Kubernetes
+// Writing to STDOUT (Kubernetes logs)
+// Default Rule Set
+/!

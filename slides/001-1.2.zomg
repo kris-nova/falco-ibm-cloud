@@ -1,0 +1,17 @@
+# Security Concepts (Linux)
+/!
+### Prevention
+/!
+// SELinux (Policy enforcement)
+// Seccomp (Syscall enforcement)
+// Access Control
+// Network Firewall
+// Encryption
+/!
+### Detection
+/!
+// Syslog
+// Access logs
+// Bash history
+// dmesg
+/!

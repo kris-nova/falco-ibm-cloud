@@ -1,0 +1,7 @@
+# (White Hat) Hacking a Kubernetes Node
+/!
+// Privilege escalation (Security audit)
+// Using default service account
+// Able to simplify this process
+// Falco was able to alert during unusual activity
+/!
